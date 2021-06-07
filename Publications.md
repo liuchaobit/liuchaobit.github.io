@@ -4,7 +4,7 @@ layout: Publications
 
 **2021**
 
-**Liu C**, Yang shengyi.  Adaptive geodesic feedback controller design for the quadrotor[J]. International Journal of Vehicle Autonomous Systems. **sUBMITTED**
+**Liu C**, Yang shengyi.  Adaptive geodesic feedback controller design for the quadrotor[J]. International Journal of Vehicle Autonomous Systems. **(Accepted)*
 
 **Liu C**, Yang shengyi. Geometric Numerical Integral Method in Compact Lie Group[C]// 2021 IEEE 6th International Conference on Intelligent Computing and Signal Processing. 2021
 

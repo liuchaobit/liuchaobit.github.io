@@ -4,9 +4,11 @@ layout: Publications
 
 **2021**
 
-**Liu C**, Yang shengyi.  Adaptive geodesic feedback controller design for the quadrotor[J]. International Journal of Vehicle Autonomous Systems. **(Accepted)*
+**Liu C**, Yang SY.  Adaptive geodesic feedback controller design for the quadrotor[J]. International Journal of Vehicle Autonomous Systems. **(Accepted)*
 
-**Liu C**, Yang shengyi. Geometric Numerical Integral Method in Compact Lie Group[C]// 2021 IEEE 6th International Conference on Intelligent Computing and Signal Processing. 2021
+**Liu C**, Yang SY. Geometric Numerical Integral Method in Compact Lie Group[C]// 2021 IEEE 6th International Conference on Intelligent Computing and Signal Processing. 2021
+
+Song YY, Yang SY, **Liu C**, Wu QG. Autonomous Obstacle Avoidance Scheme Using Monocular Vision Applied to Mobile Robots[C]// 2020 International Conference on Intelligent Control, Measurement and Signal Processing and Intelligent Oil Field. 2021
 
 ---
 

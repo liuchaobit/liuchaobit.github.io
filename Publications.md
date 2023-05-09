@@ -4,6 +4,7 @@ layout: Publications
 **2023**
 
 **Liu C**,  Yang YH, Zhang CW, Yang SY. Project-Based Teaching in Control Theory Education Based on V-REP: A Cart Inverted Pendulum Case[J]. Journal of Contemporary Educational Research, 7(4), 2023.
+
 ---
 
 **2021**

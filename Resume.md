@@ -3,7 +3,7 @@ layout: Resume
 modified: 10/25/2018
 ---
 
-###### Last modified on 11/15/2020
+###### Last modified on 5/9/2023
 
 
 ---
@@ -25,7 +25,8 @@ modified: 10/25/2018
 
 ## Awards
 
-to be continued
+* Third Prize in Teaching Innovation Competition.
+* Outstanding Supervising Teacher in ROBOCOM 2022.
 
 ## Funding
 

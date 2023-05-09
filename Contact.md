@@ -2,7 +2,7 @@
 layout: Contact
 ---
 
-Department of Measurement and Control Technology and Instrument.
+Department of Control.
 
 School of Mechatronics Engineering.
 

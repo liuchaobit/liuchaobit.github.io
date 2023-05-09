@@ -1,10 +1,14 @@
 ---
 layout: Publications
 ---
+**2023**
+
+**Liu C**,  Yang YH, Zhang CW, Yang SY. Project-Based Teaching in Control Theory Education Based on V-REP: A Cart Inverted Pendulum Case[J]. Journal of Contemporary Educational Research, 7(4), 2023.
+---
 
 **2021**
 
-**Liu C** ,  Yang S . Adaptive geodesic feedback controller design for the quadrotor[J]. International Journal of Vehicle Autonomous Systems, 2020, 15(3/4):319.
+**Liu C** ,  Yang S. Adaptive geodesic feedback controller design for the quadrotor[J]. International Journal of Vehicle Autonomous Systems, 2020, 15(3/4):319.
 
 **Liu C**, Yang SY. Geometric Numerical Integral Method in Compact Lie Group[C]// 2021 IEEE 6th International Conference on Intelligent Computing and Signal Processing. 2021
 

@@ -3,9 +3,9 @@ layout: Publications
 ---
 **2023**
 
-**Liu C**,  Yang YH, Zhang CW, Yang SY. Project-Based Teaching in Control Theory Education Based on V-REP: A Cart Inverted Pendulum Case[J]. Journal of Contemporary Educational Research, 7(4), 2023.
+**Liu C**,  Yang YH, Zhang CW, Yang SY. Project-Based Teaching in Control Theory Education Based on V-REP: A Cart Inverted Pendulum Case[J]. *Journal of Contemporary Educational Research*, 7(4), 2023.
 
-**Liu C**. Modeling and simulation of an autonomous vehicle based on Alexnet[J]. International Journal of Vehicle Systems Modelling and Testing, Accepted.
+**Liu C**. Modeling and simulation of an autonomous vehicle based on Alexnet[J]. *International Journal of Vehicle Systems Modelling and Testing*, **Accepted.**
 
 ---
 

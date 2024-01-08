@@ -2,7 +2,7 @@
 layout: Research
 ---
 
-- [Geometric modeling method and control](#1)
+- [Geometric modeling and control](#1)
 - [Navigation and Planning](#2)
 - [AI in Engineering Education](#3)
 

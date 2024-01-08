@@ -4,7 +4,7 @@ layout: Contact
 
 Department of Control.
 
-School of Mechatronics Engineering.
+School of Physics and Mechatronic Engineering.
 
 Guizhou Minzu University.
 

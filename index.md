@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am currently an assistant professor in the [ School of Mechatronics Engineering](http://lxy.gzmu.edu.cn "  School of Mechatronics Engineering") at [Guizhou Minzu University](http://www.gzmu.edu.cn "Guizhou Mingzu University"), and working in the Intelligent Unmanned System Perception and Control Research Group(IUSPC).
+I am currently an assistant professor in the [ School of Physics and Mechatronic Engineering](http://lxy.gzmu.edu.cn "School of Physics and Mechatronic Engineering") at [Guizhou Minzu University](http://www.gzmu.edu.cn "Guizhou Mingzu University"), and working in the Intelligent Unmanned System Perception and Control Research Group(IUSPC).
 
 My research interests lie within the fields of dynamics and control, with a specific focus on developing advanced modeling and control techniques tailored to air vehicles operating under rigorous conditions. Additionally, I am intrigued by the precise state estimation of air vehicles, achieved through the use of both general and advanced sensor technologies.
 

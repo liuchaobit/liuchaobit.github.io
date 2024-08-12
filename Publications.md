@@ -4,7 +4,7 @@ layout: Publications
 
 **2024**
 
-**Liu C**, Yang S. Application of large language models in engineering education: A case study of system modeling and simulation courses[J]. International Journal of Mechanical Engineering Education, 2024: 03064190241272728.
+**Liu C**, Yang S. Application of large language models in engineering education: A case study of system modeling and simulation courses[J]. *International Journal of Mechanical Engineering Education*, 2024: 03064190241272728.
 
 **Liu C**. Modeling and simulation of an autonomous vehicle based on Alexnet[J]. *International Journal of Vehicle Systems Modelling and Testing*, 18(1),2024.
 

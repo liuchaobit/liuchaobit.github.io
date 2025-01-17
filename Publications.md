@@ -4,6 +4,7 @@ layout: Publications
 
 **2024**
 
+**Liu, C.**, Yang, S. Personalized Learning Ability Classification Using SVM for Enhanced Education in System Modeling and Simulation Courses. *Front. Digit. Educ.*, 2025.
 
 **Liu, C.**  Quadrotor Trajectory Tracking and Simultaneous Localization and Mapping Implementation in CoppeliaSim. *J. Inst. Eng. India Ser.*, 2024.
 

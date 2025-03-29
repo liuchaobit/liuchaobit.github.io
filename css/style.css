@@ -374,31 +374,19 @@ footer {
     text-align: center;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
-    .nav-container {
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
     .nav-links {
-        flex-direction: column;
-        width: 100%;
-        display: none; /* 默认隐藏 */
+        display: flex;
+        flex-wrap: nowrap; /* 强制在一行 */
+        overflow-x: auto; /* 允许横向滚动 */
+        white-space: nowrap; /* 防止换行 */
+        scrollbar-width: none; /* 隐藏滚动条（Firefox） */
+        -ms-overflow-style: none; /* 隐藏滚动条（IE/Edge） */
     }
 
-    .nav-links.active {
-        display: flex; /* 点击后显示 */
-    }
-
-    .nav-links li {
-        margin: 10px 0;
-    }
-
-    .menu-toggle {
-        display: block;
-        cursor: pointer;
-        font-size: 24px;
+    .nav-links::-webkit-scrollbar {
+        display: none; /* 隐藏滚动条（Chrome/Edge） */
     }
 }
+
+

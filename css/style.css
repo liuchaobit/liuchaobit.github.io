@@ -298,6 +298,10 @@ p {
     padding: 15px;
 }
 
+.course-header h3 {
+    color: white ;
+}
+
 .course-content {
     padding: 15px;
 }
@@ -374,28 +378,27 @@ footer {
 @media (max-width: 768px) {
     .nav-container {
         flex-direction: column;
-        padding: 10px;
-    }
-    
-    .nav-links {
-        margin-top: 15px;
-        justify-content: center;
-    }
-    
-    .nav-links li {
-        margin: 0 10px;
-    }
-    
-    .hero {
-        flex-direction: column;
+        align-items: center;
         text-align: center;
     }
-    
-    .social-links {
-        justify-content: center;
-    }
-    
-    .contact-container {
+
+    .nav-links {
         flex-direction: column;
+        width: 100%;
+        display: none; /* 默认隐藏 */
+    }
+
+    .nav-links.active {
+        display: flex; /* 点击后显示 */
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+
+    .menu-toggle {
+        display: block;
+        cursor: pointer;
+        font-size: 24px;
     }
 }
